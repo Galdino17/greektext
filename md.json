@@ -1,8 +1,7 @@
 [
-  { "filename": "epi.md", "path": "epi.md" },
-  { "filename": "ek.md", "path": "ek.md" },
-  { "filename": "mecri.md", "path": "mecri.md" },
-  { "filename": "en.md", "path": "en.md" },
-  { "filename": "meta.md", "path": "meta.md" },
-  { "filename": "teste.md", "path": "teste.md" }
+  { "name": "epi", "filename": "epi.md", "path": "epi.md" },
+  { "name": "ek", "filename": "ek.md", "path": "ek.md" },
+  { "name": "mecri", "filename": "mecri.md", "path": "mecri.md" },
+  { "name": "en", "filename": "en.md", "path": "en.md" },
+  { "name": "meta", "filename": "meta.md", "path": "meta.md" }
 ]
