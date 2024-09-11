@@ -27,9 +27,10 @@ jobs:
             # Extrair o nome do arquivo e o caminho relativo
             filename=$(basename "$file")
             filepath=$(realpath --relative-to=. "$file")
+            name=$(basename "$file" .md)
             
             # Adicionar o arquivo ao JSON
-            echo "  { \"filename\": \"${filename}\", \"path\": \"${filepath}\" }," >> md.json
+            echo "  { \"name\": \"${name}\", \"filename\": \"${filename}\", \"path\": \"${filepath}\" }," >> md.json
           done
 
           # Remover a última vírgula e fechar o JSON
