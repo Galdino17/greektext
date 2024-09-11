@@ -1,0 +1,47 @@
+# .github/workflows/update-index.yml
+
+name: Atualizar Índice de Markdown
+
+on:
+  push:
+    paths:
+      - '**/*.md'  # Monitora todos os arquivos .md para mudanças
+  schedule:
+    - cron: '0 0 * * *'  # Agendado para rodar uma vez por dia (ajuste conforme necessário)
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Generate Markdown JSON Index
+        id: generate_index
+        run: |
+          # Inicializar o JSON
+          echo "[" > md.json
+
+          # Encontrar todos os arquivos .md no repositório
+          find . -name "*.md" ! -path "./md.json" ! -path "./README.md" | while read file; do
+            # Extrair o nome do arquivo e o caminho relativo
+            filename=$(basename "$file")
+            filepath=$(realpath --relative-to=. "$file")
+            
+            # Adicionar o arquivo ao JSON
+            echo "  { \"filename\": \"${filename}\", \"path\": \"${filepath}\" }," >> md.json
+          done
+
+          # Remover a última vírgula e fechar o JSON
+          sed -i '$ s/,$//' md.json
+          echo "]" >> md.json
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add md.json
+          git commit -m "Atualiza índice de arquivos Markdown em JSON"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
