@@ -1,4 +1,5 @@
 ## ἐπί (epi)
+##ἐπί (epi)
 
 **ἐπί (epi)** é uma preposição grega que pode ser traduzida para o português como **"sobre", "em", "acima de", "no tempo de"**, entre outras variações, dependendo do contexto e do caso gramatical usado (genitivo, dativo ou acusativo).
 
