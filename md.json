@@ -1,9 +1,23 @@
 [
+  { "name": "paradigmaFuturoPerfeito", "filename": "paradigmaFuturoPerfeito.md", "path": "paradigmaFuturoPerfeito.md" },
+  { "name": "futuro", "filename": "futuro.md", "path": "futuro.md" },
   { "name": "fp1.1", "filename": "fp1.1.md", "path": "fp1.1.md" },
   { "name": "ek", "filename": "ek.md", "path": "ek.md" },
+  { "name": "paradgimaMaisQuePErfeito", "filename": "paradgimaMaisQuePErfeito.md", "path": "paradgimaMaisQuePErfeito.md" },
+  { "name": "paradigmaPresente", "filename": "paradigmaPresente.md", "path": "paradigmaPresente.md" },
   { "name": "en", "filename": "en.md", "path": "en.md" },
+  { "name": "futuroPerfeito", "filename": "futuroPerfeito.md", "path": "futuroPerfeito.md" },
+  { "name": "paradigmaFuturo", "filename": "paradigmaFuturo.md", "path": "paradigmaFuturo.md" },
+  { "name": "perfeito", "filename": "perfeito.md", "path": "perfeito.md" },
+  { "name": "aoristo", "filename": "aoristo.md", "path": "aoristo.md" },
+  { "name": "imperfeito", "filename": "imperfeito.md", "path": "imperfeito.md" },
   { "name": "epi", "filename": "epi.md", "path": "epi.md" },
   { "name": "fp1.2", "filename": "fp1.2.md", "path": "fp1.2.md" },
   { "name": "meta", "filename": "meta.md", "path": "meta.md" },
-  { "name": "mecri", "filename": "mecri.md", "path": "mecri.md" }
+  { "name": "presente", "filename": "presente.md", "path": "presente.md" },
+  { "name": "paradigmaAoristo", "filename": "paradigmaAoristo.md", "path": "paradigmaAoristo.md" },
+  { "name": "paradigmaImperfeito", "filename": "paradigmaImperfeito.md", "path": "paradigmaImperfeito.md" },
+  { "name": "maisqueperfeito", "filename": "maisqueperfeito.md", "path": "maisqueperfeito.md" },
+  { "name": "mecri", "filename": "mecri.md", "path": "mecri.md" },
+  { "name": "paradigmaPerfeito", "filename": "paradigmaPerfeito.md", "path": "paradigmaPerfeito.md" }
 ]
