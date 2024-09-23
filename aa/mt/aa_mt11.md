@@ -1,0 +1,30 @@
+mt 11.1: Tendo acabado Jesus de dar instruções aos seus doze discípulos, partiu dali a ensinar e a pregar nas cidades da região.
+mt 11.2: Ora, quando João no cárcere ouviu falar das obras do Cristo, mandou pelos seus discípulos perguntar-lhe:
+mt 11.3: És tu aquele que havia de vir, ou havemos de esperar outro?
+mt 11.4: Respondeu-lhes Jesus: Ide contar a João as coisas que ouvis e vedes:
+mt 11.5: os cegos vêem, e os coxos andam; os leprosos são purificados, e os surdos ouvem; os mortos são ressuscitados, e aos pobres é anunciado o evangelho.
+mt 11.6: E bem-aventurado é aquele que não se escandalizar de mim.
+mt 11.7: Ao partirem eles, começou Jesus a dizer às multidões a respeito de João: que saístes a ver no deserto? um caniço agitado pelo vento?
+mt 11.8: Mas que saístes a ver? um homem trajado de vestes luxuosas? Eis que aqueles que trajam vestes luxuosas estão nas casas dos reis.
+mt 11.9: Mas por que saístes? para ver um profeta? Sim, vos digo, e muito mais do que profeta.
+mt 11.10: Este é aquele de quem está escrito: Eis aí envio eu ante a tua face o meu mensageiro, que há de preparar adiante de ti o teu caminho.
+mt 11.11: Em verdade vos digo que, entre os nascidos de mulher, não surgiu outro maior do que João, o Batista; mas aquele que é o menor no reino dos céus é maior do que ele.
+mt 11.12: E desde os dias de João, o Batista, até agora, o reino dos céus é tomado a força, e os violentos o tomam de assalto.
+mt 11.13: Pois todos os profetas e a lei profetizaram até João.
+mt 11.14: E, se quereis dar crédito, é este o Elias que havia de vir.
+mt 11.15: Quem tem ouvidos, ouça.
+mt 11.16: Mas, a quem compararei esta geração? É semelhante aos meninos que, sentados nas praças, clamam aos seus companheiros:
+mt 11.17: Tocamo-vos flauta, e não dançastes; cantamos lamentações, e não pranteastes.
+mt 11.18: Porquanto veio João, não comendo nem bebendo, e dizem: Tem demônio.
+mt 11.19: Veio o Filho do homem, comendo e bebendo, e dizem: Eis aí um comilão e bebedor de vinho, amigo de publicanos e pecadores. Entretanto a sabedoria é justificada pelas suas obras.
+mt 11.20: Então começou ele a lançar em rosto às cidades onde se operara a maior parte dos seus milagres, o não se haverem arrependido, dizendo:
+mt 11.21: Ai de ti, Corazin! ai de ti, Betsaida! porque, se em Tiro e em Sidom, se tivessem operado os milagres que em vós se operaram, há muito elas se teriam arrependido em cilício e em cinza.
+mt 11.22: Contudo, eu vos digo que para Tiro e Sidom haverá menos rigor, no dia do juízo, do que para vós.
+mt 11.23: E tu, Cafarnaum, porventura serás elevada até o céu? até o inferno descerás; porque, se em Sodoma se tivessem operado os milagres que em ti se operaram, teria ela permanecido até hoje.
+mt 11.24: Contudo, eu vos digo que no dia do juízo haverá menos rigor para a terra de Sodoma do que para ti.
+mt 11.25: Naquele tempo falou Jesus, dizendo: Graças te dou, ó Pai, Senhor do céu e da terra, porque ocultaste estas coisas aos sábios e entendidos, e as revelaste aos pequeninos.
+mt 11.26: Sim, ó Pai, porque assim foi do teu agrado.
+mt 11.27: Todas as coisas me foram entregues por meu Pai; e ninguém conhece plenamente o Filho, senão o Pai; e ninguém conhece plenamente o Pai, senão o Filho, e aquele a quem o Filho o quiser revelar.
+mt 11.28: Vinde a mim, todos os que estai cansados e oprimidos, e eu vos aliviarei.
+mt 11.29: Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e achareis descanso para as vossas almas.
+mt 11.30: Porque o meu jugo é suave, e o meu fardo e leve.
